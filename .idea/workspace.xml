@@ -13,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Oowgnajiohc/Django-Board.git",
+    "accountId": "75011cd5-beff-4f23-8be0-8015a006a666"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -88,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749598607687</updated>
       <workItem from="1749598612596" duration="8782000" />
-      <workItem from="1749789246573" duration="303000" />
+      <workItem from="1749789246573" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -106,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749789414964</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chore">
+      <option name="closed" value="true" />
+      <created>1749789596534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749789596534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs">
+      <option name="closed" value="true" />
+      <created>1749789920243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749789920243</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
+    <MESSAGE value="chore" />
     <MESSAGE value="docs" />
     <option name="LAST_COMMIT_MESSAGE" value="docs" />
   </component>

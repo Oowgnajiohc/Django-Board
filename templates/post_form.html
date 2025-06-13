@@ -1,0 +1,8 @@
+<h1>명언 제조하기</h1>
+<form method="post">
+  {% csrf_token %}
+  <input type="text" name="nickname" placeholder="이름 또는 별명"><br>
+  <textarea name="content" placeholder="내용"></textarea><br>
+  <button type="submit">등록</button>
+</form>
+<a href="{% url 'post_list' %}">← 목록으로</a>
